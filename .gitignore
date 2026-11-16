@@ -1,0 +1,6 @@
+/vendor
+.env
+/public/uploads/*
+!/public/uploads/.htaccess
+/storage/logs/*.log
+/database/database.sqlite
